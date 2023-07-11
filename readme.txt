@@ -1,6 +1,6 @@
 # First-order graph trend ﬁltering for sparse hyperspectral unmixing #
 
-Authors: Fu-Xing Song & Shi-Wen Deng 
+Authors: Fu-Xin Song & Shi-Wen Deng 
 -----------------------------------------
 **The code and data herein distributed reproduces the results published in the paper.
 
@@ -36,7 +36,7 @@ Note
 
 Licensing
 -------------------------------------
-Copyright (C) 2023 Fu-Xing Song
+Copyright (C) 2023 Fu-Xin Song
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3 of the License.
 
